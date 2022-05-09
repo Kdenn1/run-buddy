@@ -1,11 +1,14 @@
-# run-buddy
+# Run Buddy
 
-Dear folks at Run-Buddy,
+## Purpose
+A website that offers fitness training services.
 
-This is your lovely and completely flawless finished version of your website! As requested I've included all of the 
-stylings and visuals to your liking. I hope this website allows many customers to reach you so they can run with that
-sweaty headband guy you were advertising about. 
+## Built With
+* HTML
+* CSS
 
-Cheers!
-- Kaeden Wodke
-- 
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by Kaeden Wodke
